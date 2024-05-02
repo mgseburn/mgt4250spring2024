@@ -22,6 +22,6 @@ These questions are *especially* **important** because....
  
 ## Discussion and Summary 
 
-'''
+```
 import pandas as pd
-'''
+``` 
