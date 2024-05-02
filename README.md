@@ -21,3 +21,7 @@ These questions are *especially* **important** because....
 ![image](https://github.com/mgseburn/mgt4250spring2024/assets/168772555/ed38f77c-3824-4aba-97b1-5922ab8a124a)
  
 ## Discussion and Summary 
+
+'''
+import pandas as pd
+'''
