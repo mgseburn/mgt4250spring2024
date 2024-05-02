@@ -8,6 +8,8 @@ Author: Madeline Seburn (mseburn@elon.edu)
 - Question 3
 ### Important Statement 
 These questions are *especially* **important** because.... 
-1. Reason 1 : im so silly
-2. reason 2: im so smart
-3. reason 3 : im perfect 
+1. Reason 1 : 
+2. reason 2: 
+3. reason 3 : 
+
+[Elon University] (https://elon.edu)
